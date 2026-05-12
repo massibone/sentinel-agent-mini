@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 ALLOWED_EXTENSIONS = (".txt", ".md")
-DOCS_DIR = Path("C:/Users/D79197/OneDrive - Comune di FIRENZE/Documenti/PYTHON_PROJECT/broadcastSite/sentinel_agent/docs")
+DOCS_DIR = Path("C:/Users.../sentinel_agent/docs")
 
 
 def list_documents() -> list[str]:
