@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Any
 
 
-# ── Identity ─────────────────────────────────────────────────────────────────
+# ── Identity ───────────────────────────────────────────────────
 
 @dataclass(frozen=True)
 class AgentIdentity:
