@@ -23,6 +23,7 @@ python main.py run delete_file
 
 Ora vediamo il blocco di policy — che è diverso: il tool esiste ed è noto, ma la policy lo vieta.
 In agent.py cambia temporaneamente una riga:
+
 DA
 can_read_docs: bool = True
 
