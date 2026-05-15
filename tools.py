@@ -6,7 +6,6 @@ from __future__ import annotations
 
 from pathlib import Path
 
-
 ALLOWED_EXTENSIONS = (".txt", ".md")
 DOCS_DIR = Path("C:/Users.../sentinel_agent/docs")
 
